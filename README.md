@@ -21,7 +21,7 @@ Repository focused on describe how to use 'invenio-bot' and receive feedbacks.
   
 ## How to use
 
-[ClickHere to ADD][https://github.com/medivians/invenio-bot-doc/blob/main/README.md]
+[Click here to ADD](https://github.com/medivians/invenio-bot-doc/blob/main/README.md)
 
 TODO
 
