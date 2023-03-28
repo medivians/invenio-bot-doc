@@ -20,6 +20,9 @@ Repository focused on describe how to use 'invenio-bot' and receive feedbacks.
   - Command to list where an specific item can be dropped
   
 ## How to use
+
+[ClickHere to ADD][https://github.com/medivians/invenio-bot-doc/blob/main/README.md]
+
 TODO
 
 ## Feedbacks and issues
