@@ -5,10 +5,13 @@ Repository focused on describe how to use 'invenio-bot' and receive feedbacks.
 ## Features/Commands
 - **`kill-list`** *`player-name`*
   - This command will return a list of players killed by informed player
+- **`death-list`** *`player-name`*
+  - This command will return a list death of the given player
 -  **`who-is`** *`player-name`*
   - This command will return basic information about the informed player
 -  **`where-to-sell`** *`player-name`*
   - This command will return basic information about the informed player
+  
 ### Incoming features
 - hunting-list
   - We'll inform by discord when some player included in hunting list become online
